@@ -15,4 +15,4 @@ Your sole task is to create an R Markdown document that satisfies the following 
 * It contains at least one R command that displays text output
 * It contains at least one R command that makes a figure
 
-... and to submit it according to the instructions for submitting assignments.
+... and to submit it according to the [instructions for submitting assignments](http://bkenkel.com/psci8357/handouts/submission-instructions.pdf).
